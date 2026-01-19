@@ -70,6 +70,5 @@ For å "cut the beef" i et moderne landskap, har vi oppgradert arkitekturen:
 
 ---
 
-Dette ser nå ut som et komplett og modent prosjektforslag. Det kombinerer din dype forståelse for språkets logikk med moderne verktøy for å løse det Johnsen (2006) kalte "estimating the truth of the terms".
 
 Lykke til med rugdetrekket i koden og de 1,6 millionene med rader! Vi snakkes når du er klar for neste fase.
