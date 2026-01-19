@@ -69,6 +69,3 @@ For å "cut the beef" i et moderne landskap, har vi oppgradert arkitekturen:
 *Basert på "Morphological learning as principled argument", Lars G. Johnsen (2006).*
 
 ---
-
-
-Lykke til med rugdetrekket i koden og de 1,6 millionene med rader! Vi snakkes når du er klar for neste fase.
